@@ -1,0 +1,25 @@
+.videoSection {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.buttonGroup {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.deleteButton {
+  background-color: #dc3545;
+  color: white;
+  padding: 10px 16px;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.deleteButton:hover {
+  background-color: #a71d2a;
+}
