@@ -18,10 +18,10 @@ This is a Face Tracking Web Application built using **Next.js** and **face-api.j
 
 ---
 
-## 📸 Demo (optional)
+## 📸 Demo 
 
-> [![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://your-deployed-url.vercel.app)
 
+](https://facetrackingapp.netlify.app/)
 ---
 
 ## 🚀 Getting Started
